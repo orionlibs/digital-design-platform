@@ -1,0 +1,13 @@
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/CloningService.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/Logger.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/abstraction/AError.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/abstraction/Enumeration.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/abstraction/Validator.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/calendar/CalendarService.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/exception/CheckedException.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/exception/UncheckedException.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/json/JSONMapper.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/json/JSONService.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/polling/PollingTaskService.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/tuple/Pair.java
+/Users/dimiefthymiou/workspaces/misc/digital-design-platform/digital-design-platform/src/main/java/com/orion/digital_design_platform/core/tuple/Tuple.java
